@@ -6,9 +6,12 @@ xkb_symbols "us-swe"
   key <LatA> { [ a, A, Greek_alpha, A ] };
   key <LatB> { [ b, B, Greek_beta, B ] };
   key <LatD> { [ d, D, Greek_delta, Greek_DELTA ] };
+  key <LatE> { [ e, E, Greek_epsilon, E ] };
   key <LatG> { [ g, G, Greek_gamma, Greek_GAMMA ] };
+
   key <LatO> { [ o, O, Greek_omega, Greek_OMEGA ] };
   key <LatP> { [ p, P, Greek_pi, Greek_PI ] };
+  key <LatS> { [ s, S, Greek_sigma, Greek_SIGMA ] };
   key <LatT> { [ t, T, Greek_theta, Greek_THETA ] };
   key <LatZ> { [ z, Z, Greek_zeta, Z ] };
 
